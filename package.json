@@ -1,0 +1,19 @@
+{
+  "name": "configNoah",
+  "version": "1.0.0",
+  "description": "刘金宇(Noah)的配置中心--所有产出的开源项目的配置 统一放在这里",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujinyu1029/configNoah.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liujinyu1029/configNoah/issues"
+  },
+  "homepage": "https://github.com/liujinyu1029/configNoah#readme"
+}
